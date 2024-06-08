@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleDriveClone</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login_with_google">Login with Google</string>
+</resources>
